@@ -11,10 +11,9 @@ Project 9 Final GUI demonstration: Investigating the dynamics of HIV & AIDS impa
 
 Data source : http://dataportal.opendataforafrica.org/qbavydc/united-nations-aids-data-2016
 
-For this class the main role was to create a Graphical User Interface for data analysis and visualization. As the 
-class developed, new analytical tools were added onto the GUI and were used for analysis like KNN classification, PCA analysis 
-and more tools to help mine data and discover patterns/trends. For this ?project, the objective goal will be using the GUI data 
-analysis and visualization tools to help me answer a research question(s) the data set I choose, for my given case study.  
+For this class the main role was to create a data analysis and visualization Graphical User Interface. As the 
+class developed, new analytical tools were added onto the GUI and were used for analyses like KNN classification, PCA analysis 
+and more tools to help mine data and discover patterns/trends. For this ?project, the objective goal will be using the GUI data analysis and visualization tools to help me answer a research question(s) on the data set I chose, for my given case study.  
 
 Like most countries, Swaziland has a very complex history with challenges of all sorts, and this history tends to translate 
 in the complexity in people's lives as well. A quick web  search of Swaziland would probably tell you that it has a high HIV 
