@@ -57,7 +57,7 @@ through visualization. Having started off with assumptions, my data HIV-AIDS for
 understand the relations between different countries in their battles with the HIV-AIDS epidemic. 
 
 What I learnt
-
+ 
 Through data analysis and visualization, I was able to gain insight on the HIV-AIDS situation, and the data visualization helped 
 me undestand the trends and progresses in the fight towards combatting the impacts of HIV. 
  
