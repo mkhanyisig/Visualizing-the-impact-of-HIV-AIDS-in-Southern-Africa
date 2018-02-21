@@ -60,7 +60,7 @@ What I learnt
 
 Through data analysis and visualization, I was able to gain insight on the HIV-AIDS situation, and the data visualization helped 
 me undestand the trends and progresses in the fight towards combatting the impacts of HIV. 
-
+ 
 Most of my time was spent editing my data files than the actual analysis, and if I could have, writing a program to read in 
 the downloaded data files, and convert them to the csv format the display.py file reads, that would have been a very useful 
 application of my knowledge gained in this class, through developing algorithms to process large data sets. 
