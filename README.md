@@ -1,7 +1,11 @@
 Mkhanyisi Gamedze 
+
 Colby College
+
 CS251 (SP17): Data Analysis and Visualization
+
 Project 9 Final GUI demonstration: Investigating the dynamics of HIV & AIDS impacts on Southern African communities 
+
 20 May 2017
 
 
