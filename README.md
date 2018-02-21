@@ -11,7 +11,7 @@ Project 9 Final GUI demonstration: Investigating the dynamics of HIV & AIDS impa
 
 Data source : http://dataportal.opendataforafrica.org/qbavydc/united-nations-aids-data-2016
 
-For this class the main role was to create a Graphical User interface for data analysis and visualization. As the 
+For this class the main role was to create a Graphical User Interface for data analysis and visualization. As the 
 class developed, new analytical tools were added onto the GUI and were used for analysis like KNN classification, PCA analysis 
 and more tools to help mine data and discover patterns/trends. For this ?project, the objective goal will be using the GUI data 
 analysis and visualization tools to help me answer a research question(s) the data set I choose, for my given case study.  
