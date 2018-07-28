@@ -4,7 +4,7 @@ Colby College
 
 CS251 (SP17): Data Analysis and Visualization
 
-course summary
+course summary : 
 Built an application using python that can visualize data sets in 3D coordinate.
 Implemented data analysis functions including PCA analysis, regression, clustering and machine learning
 
