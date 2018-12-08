@@ -5,8 +5,7 @@ Colby College
 CS251 (SP17): Data Analysis and Visualization
 
 course summary : 
-Built an application using python that can visualize data sets in 3D coordinate. 6 dimensions represented when adding size, color and shape.  
-Implemented data analysis functions including PCA analysis, regression, clustering and machine learning
+Built an application using python that can visualize data sets in 3D coordinate. 6 dimensions represented when adding size, color and shape.Implemented data analysis functions including PCA analysis, regression, clustering and machine learning
 
 Project 9 Final GUI demonstration: Investigating the dynamics of HIV & AIDS impacts on Southern African communities 
 
