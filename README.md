@@ -1,6 +1,6 @@
 # CS251 (SP17): Data Analysis and Visualization
 <br>
-# course summary : 
+Course summary : 
 <br>
 Built an application using python that can visualize data sets in 3D coordinate. 6 dimensions represented when adding size, color and shape.Implemented data analysis functions including 
 <br> - PCA analysis 
